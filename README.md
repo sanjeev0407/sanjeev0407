@@ -104,7 +104,7 @@ These repositories are the planned portfolio projects. Each link should be publi
 ## 🤝 Connect With Me
 
 - **GitHub:** [github.com/sanjeev0407](https://github.com/sanjeev0407)
-- **LinkedIn:** [Add your LinkedIn profile](https://www.linkedin.com/in/sanjeevkumaraws)
+- **LinkedIn:** (https://www.linkedin.com/in/sanjeevkumaraws)
 - **Email:** Add your professional contact email privately where appropriate.
 
 ---
