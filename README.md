@@ -103,8 +103,9 @@ These repositories are the planned portfolio projects. Each link should be publi
 
 ## 🤝 Connect With Me
 
-- **GitHub:** [github.com/sanjeev0407] https://github.com/sanjeev0407
+- **GitHub:** https://github.com/sanjeev0407
 - **LinkedIn:** https://www.linkedin.com/in/sanjeevkumaraws
+- **portfolio:** https://sanjeevkumar-awsdevopsengineer-portfolio.vercel.app/
 ---
 
 <div align="center">
