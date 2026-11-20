@@ -2,9 +2,9 @@
 
 # Hi, I'm Sanjeev Kumar 👋
 
-### AWS DevOps Engineer | Cloud Infrastructure | Infrastructure as Code | CI/CD
+### Senior AWS DevOps Engineer | Cloud Infrastructure | Infrastructure as Code | CI/CD
 
-*8 years of IT experience** in AWS infrastructure, DevOps automation, cloud operations and production support.
+**8 years of IT experience** in AWS infrastructure, DevOps automation, cloud operations and production support.
 
 [![GitHub](https://img.shields.io/badge/GitHub-sanjeev0407-181717?style=for-the-badge&logo=github)](https://github.com/sanjeev0407)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sanjeevkumaraws)
